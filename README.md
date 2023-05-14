@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scripter928
-- 👀 I’m interested in Lua scripts for Roblox
-- 🌱 I’m currently learning Lua and Js
+- 👀 I’m interested in Lua
+- 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on ¿?
 
 <!---
