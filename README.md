@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Scripter928
-- 👀 I’m interested in Lua
-- 🌱 I’m currently learning Lua
-- 💞️ I’m looking to collaborate on ¿?
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Scripter928&theme=dark&hide_border=true&border_radius=60)](https://git.io/streak-stats)
 
 <!---
 Scripter928/Scripter928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
