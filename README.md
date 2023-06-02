@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scripter928&hide_progress=false)](https://github.com/Scripter928/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scripter928&hide_progress=false&theme=dark)](https://github.com/Scripter928/github-readme-stats)
 
 <!---
 Scripter928/Scripter928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
